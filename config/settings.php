@@ -2,6 +2,6 @@
 
 return [
     'author'                => env('APP_AUTHOR', 'Jeremy Edgar Kenedy'),
-    'description'           => env('APP_DESC', 'Michael Jackson Ipsum Generator'),
-    'keywords'              => env('APP_KEYWORDS', 'Michael Jackson Ipsum, Michael Jackson, Ipsum, Lorem Ipsum'),
+    'description'           => env('APP_DESC', 'Bart Simpson Ipsum Generator'),
+    'keywords'              => env('APP_KEYWORDS', 'Bart Simpson Ipsum, Bart Simpson, Ipsum, Lorem Ipsum'),
 ];

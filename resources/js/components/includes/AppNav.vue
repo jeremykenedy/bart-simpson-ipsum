@@ -8,8 +8,8 @@
           <router-link :to="{ name: 'home' }">
             <span class="sr-only">{{ appName }}</span>
             <div>
-              <img id="mjHeadLight" alt="Michael Jackson" class="show-light text-center ml-auto mr-auto w-10" />
-              <img id="mjHeadDark" alt="Michael Jackson" class="show-dark text-center ml-auto mr-auto w-10" />
+              <img id="mjHeadLight" alt="Bart Simpson" class="show-light text-center ml-auto mr-auto w-10" />
+              <img id="mjHeadDark" alt="Bart Simpson" class="show-dark text-center ml-auto mr-auto w-10" />
             </div>
           </router-link>
         </div>
@@ -24,8 +24,8 @@
 
 <script>
 import ToggleDarkMode from '@components/ToggleDarkMode.vue';
-import mjHeadLight from '@img/mj/mj-head-dark.png';
-import mjHeadDark from '@img/mj/mj-head-light.png';
+import mjHeadLight from '@img/logo/head.png';
+import mjHeadDark from '@img/logo/head1.png';
 
 export default {
   name: 'AppNav',

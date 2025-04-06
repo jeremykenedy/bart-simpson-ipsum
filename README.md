@@ -1,4 +1,4 @@
-# Michael Jackson Ipsum Generator
+# Bart Simpson Ipsum Generator
 
 [![StyleCI](https://github.styleci.io/repos/960221622/shield?branch=master)](https://github.styleci.io/repos/960221622?branch=master)
 [![Composer Install](https://github.com/jeremykenedy/michael-jackson-ipsum/actions/workflows/php.yml/badge.svg)](https://github.com/jeremykenedy/michael-jackson-ipsum/actions/workflows/php.yml)
@@ -16,7 +16,7 @@
 - [License](#license)
 
 ## About
-A Laravel + Vite + Vue 3 + TailwindCSS Michael Jackson Ipsum Generator.
+A Laravel + Vite + Vue 3 + TailwindCSS Bart Simpson Ipsum Generator.
 Uses official [TailwindCSS](https://tailwindcss.com/). While the front end is
 part of this repository it is a completely separated Vue 3 front end compiled using ViteJS.
 
@@ -234,4 +234,4 @@ MichaelJacksonIpsum
 * File tree generated using command `tree -a -I '.git|node_modules|vendor|build|storage|tests|.DS_Store|.env'`
 
 ## License
-Michael Jackson Ipsum Generator is licensed under the [MIT license](https://opensource.org/licenses/MIT). Enjoy!
+Bart Simpson Ipsum Generator is licensed under the [MIT license](https://opensource.org/licenses/MIT). Enjoy!

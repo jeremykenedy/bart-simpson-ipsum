@@ -18,8 +18,8 @@
       </div>
     </div>
     <div>
-      <img id="mikeLight" alt="Michael Jackson" class="show-light text-center ml-auto mr-auto w-40" />
-      <img id="mikeDark" alt="Michael Jackson" class="show-dark text-center ml-auto mr-auto w-40" />
+      <img id="mikeLight" alt="Bart Simpson" class="show-light text-center ml-auto mr-auto w-40" />
+      <img id="mikeDark" alt="Bart Simpson" class="show-dark text-center ml-auto mr-auto w-40" />
       <img id="fourZeroFour" alt="404" class="show-dark w-40" />
       <img id="fourZeroFourLight" alt="404" class="show-light w-40" />
     </div>
@@ -29,8 +29,8 @@
 <script lang="ts">
 import fourZeroFour from '@img/404.png';
 import fourZeroFourLight from '@img/404-light.png';
-import mikeLight from '@img/mj/mj-light.png';
-import mikeDark from '@img/mj/mj-dark.png';
+import mikeLight from '@img/logo/bart.png';
+import mikeDark from '@img/logo/bart.png';
 
 export default {
   name: 'NotFound',
