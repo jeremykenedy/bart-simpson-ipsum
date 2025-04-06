@@ -6,10 +6,8 @@
       <div class="relative">
         <div class="">
           <div class="text-center md:text-left">
-            <h1 class="my-2 text-2xl font-bold text-gray-800 dark:text-white">
-              Looks like you've found a hidden dance party!
-            </h1>
-            <p class="my-7 text-gray-800 dark:text-white">Boom ski tahh boom boom.. hee hee.</p>
+            <h1 class="my-2 text-2xl font-bold text-gray-800 dark:text-white">¡Ay Caramba!</h1>
+            <p class="my-7 text-gray-800 dark:text-white">I'm bart simpson, who the hell are you?</p>
             <router-link :to="{ name: 'home' }">
               <AppButton secondary text="Go Home" class="py-4 px-8 w-full lg:w-auto" />
             </router-link>
@@ -18,8 +16,8 @@
       </div>
     </div>
     <div>
-      <img id="mikeLight" alt="Bart Simpson" class="show-light text-center ml-auto mr-auto w-40" />
-      <img id="mikeDark" alt="Bart Simpson" class="show-dark text-center ml-auto mr-auto w-40" />
+      <img id="light" alt="Bart Simpson" class="show-light text-center ml-auto mr-auto w-40" />
+      <img id="dark" alt="Bart Simpson" class="show-dark text-center ml-auto mr-auto w-40" />
       <img id="fourZeroFour" alt="404" class="show-dark w-40" />
       <img id="fourZeroFourLight" alt="404" class="show-light w-40" />
     </div>
@@ -29,14 +27,14 @@
 <script lang="ts">
 import fourZeroFour from '@img/404.png';
 import fourZeroFourLight from '@img/404-light.png';
-import mikeLight from '@img/logo/bart.png';
-import mikeDark from '@img/logo/bart.png';
+import light from '@img/logo/bart.png';
+import dark from '@img/logo/bart.png';
 
 export default {
   name: 'NotFound',
   mounted() {
-    document.getElementById('mikeLight').src = mikeLight;
-    document.getElementById('mikeDark').src = mikeDark;
+    document.getElementById('light').src = light;
+    document.getElementById('dark').src = dark;
     document.getElementById('fourZeroFour').src = fourZeroFour;
     document.getElementById('fourZeroFourLight').src = fourZeroFourLight;
   },
