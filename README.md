@@ -1,6 +1,6 @@
 # Bart Simpson Ipsum Generator
 
-[![StyleCI](https://github.styleci.io/repos/960221622/shield?branch=master)](https://github.styleci.io/repos/960221622?branch=master)
+[![StyleCI](https://github.styleci.io/repos/961194669/shield?branch=master)](https://github.styleci.io/repos/961194669?branch=master)
 [![Composer Install](https://github.com/jeremykenedy/bart-simpson-ipsum/actions/workflows/php.yml/badge.svg)](https://github.com/jeremykenedy/bart-simpson-ipsum/actions/workflows/php.yml)
 [![App Version](https://img.shields.io/github/v/tag/jeremykenedy/bart-simpson-ipsum.svg?sort=semver&label=App%20Version)](https://github.com/jeremykenedy/bart-simpson-ipsum/releases)
 [![License: MIT](https://img.shields.io/static/v1?label=License&message=MIT&color=green&style=flat)](https://opensource.org/licenses/MIT)
