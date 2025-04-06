@@ -72,7 +72,7 @@ part of this repository it is a completely separated Vue 3 front end compiled us
 
 ## File Tree
 ```
-MichaelJacksonIpsum
+.
 ├── .editorconfig
 ├── .env.example
 ├── .eslintrc.js
@@ -158,8 +158,6 @@ MichaelJacksonIpsum
 │   ├── favicon-32x32.png
 │   ├── favicon.ico
 │   ├── favicon.png
-│   ├── images
-│   │   └── placeholder.jpg
 │   ├── index.php
 │   ├── robots.txt
 │   ├── serviceworker.js
@@ -181,12 +179,15 @@ MichaelJacksonIpsum
 │   │   │   ├── favicon.ico
 │   │   │   ├── favicon.png
 │   │   │   └── site.webmanifest
-│   │   └── mj
-│   │       ├── mj-dark.png
-│   │       ├── mj-head-dark.png
-│   │       ├── mj-head-light.png
-│   │       ├── mj-light.jpg
-│   │       └── mj-light.png
+│   │   └── logo
+│   │       ├── bart-a.png
+│   │       ├── bart.ico
+│   │       ├── bart.png
+│   │       ├── bart1-a.png
+│   │       ├── bart1.jpg
+│   │       ├── head.png
+│   │       ├── head1.png
+│   │       └── il_1588xN.3249475413_mj9z.webp
 │   ├── js
 │   │   ├── app.js
 │   │   ├── bootstrap.js
@@ -226,7 +227,7 @@ MichaelJacksonIpsum
 ├── vite.config.js
 └── vue.config.js
 
-35 directories, 118 files
+34 directories, 120 files
 
 ```
 
