@@ -15,7 +15,7 @@
         "@tailwindcss/forms": "^0.5.10",
         "@tailwindcss/line-clamp": "^0.4.4",
         "@tailwindcss/typography": "^0.5.16",
-        "@vitejs/plugin-legacy": "^6.0.1",
+        "@vitejs/plugin-legacy": "^6.1.0",
         "@vitejs/plugin-vue": "^5.2.1",
         "autoprefixer": "^10.4.20",
         "eslint": "^9.23.0",
